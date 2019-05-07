@@ -7,3 +7,5 @@ I 'm learning Github
 a new change is fund
 
 5.7.change
+
+5.7.second change
